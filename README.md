@@ -1,4 +1,4 @@
-# SX_Databar
+# SX_Databar 3.3.5
 
 Modified for warmane in 2017.  
 Client: WOTLK 3.3.5 UnOfficial  
